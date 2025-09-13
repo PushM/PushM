@@ -4,4 +4,3 @@
 
 - 🛡️ **Focus:** Network Security | Networking | Backend Development  
 - 💼 **Past Experience:** Intern @ ByteDance  
-- 🛠️ **Project Involvement:** Participated in CNCERT, OpenEuler
