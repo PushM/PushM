@@ -1,4 +1,4 @@
-# Hi, I'm PushM 👋
+# PushM 👋
 
 **Digital Engineer at a State-Owned Enterprise in Qingdao**
 
