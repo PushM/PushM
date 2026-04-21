@@ -1,6 +1,6 @@
 # PushM 👋
 
-**Digital Engineer at a State-Owned Enterprise in Qingdao**
+**Digital Engineer in Qingdao**
 
 - 🛡️ **Focus:** Network Security | Networking | Backend Development  
 - 💼 **Past Experience:** Intern @ ByteDance  
