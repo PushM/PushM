@@ -2,5 +2,4 @@
 
 **Digital Engineer in Qingdao**
 
-- 🛡️ **Focus:** Network Security | Networking | Backend Development  
-- 💼 **Past Experience:** Intern @ ByteDance  
+- 🛡️ **Focus:** Network Security | Networking | Sotfware Development | AI Agent
