@@ -2,4 +2,4 @@
 
 **Digital Engineer in Qingdao**
 
-- 🛡️ **Focus:** Network Security | Networking | Sotfware Development | AI Agent
+- 🛡️ **Focus:** Network Security | Networking | Software Development | AI Agent
